@@ -22,7 +22,7 @@ export default {
   }
 
   #app {
-    font-family: Arial;
+    font-family: Arial, SansSerif, sans-serif;
     font-size: 1.6rem;
     color: #222;
     background-color: #092525;
